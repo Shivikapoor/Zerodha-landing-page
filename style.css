@@ -1,0 +1,154 @@
+*{
+    width: 100;
+    margin: 0;
+    padding: 0;
+    color:#424242;
+}
+
+body {
+    font-family: "Inter", serif;
+    font-size: 16px;
+    width: 100%;
+    line-height: 1.7;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(240, 240, 240);
+    /* box-shadow: 2px 2px 2px rgb(221, 221, 221); */
+}
+
+#logo {
+    height: 18px;
+    margin-left: 200px;
+    padding-top: 25px;
+}
+
+#navbar-options {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 200px;
+}
+
+.navbar-options-all {
+    padding: 20px;
+}
+
+.navbar-options-all:hover {
+    color:#387ed1;
+    cursor: pointer;
+}
+
+
+#hero-img {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    height: 320px;
+}
+
+h1{
+    margin-top: 90px;
+    text-align: center;
+    line-height: 1.25;
+    font-weight: 500;
+    font-size: 44px;
+    color:#424242;
+}
+
+h2 {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 200;
+    color:#424242;
+    font-size: 22px;
+}
+
+#button-div {
+    display: flex;
+    justify-content: center;
+}
+
+#button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #387ed1;
+    border-radius: 3px;
+    border: 1px solid #387ed1;
+    color:aliceblue;
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+#button:hover {
+    background-color: #252525;
+    border: 1px solid #242424;
+}
+
+#container-2 {
+    display: flex;
+    justify-content: space-between;
+    /* padding-left: 100px;
+    padding-right: 100px; */
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.paragraphs {
+    text-align: left;
+    padding-top: 30px;
+    padding-right: 40px;
+}
+
+#circle-image {
+    padding-top: 50px;
+    width: 600px;
+   
+}
+
+#Trust-the-confidence {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+
+#media {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#container-3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
+
+#zero-img-boxes {
+    display: inline-block;
+    justify-content: space-between;
+    
+}
+
+#containe-unbeatable-price {
+    padding-right: 50px;
+}
+
+#text {
+    padding-right: 40px;
+
+}
+
+.zero-img {
+    width:
+}
+
+
